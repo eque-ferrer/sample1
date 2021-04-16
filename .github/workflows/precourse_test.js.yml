@@ -29,7 +29,7 @@ jobs:
     - name: Lesson 9 - Javascript VI (Callbacks and More Array Methods)
       run: npm test L9/Homework/tests/JSVI.test.js
     - name: Lesson 10 - Javascript VII (Closure)
-      run: npm test L10/Homework/tests/JSVII.test.js 
+      run: npm test L12/Homework/tests/DOM.test.js
     - name: Lesson 11 - Javascript VIII (Recursion)
       run: npm test L11/Homework/tests/JSVIII.test.js      
     - name: Lesson 12 - Document Object Model
